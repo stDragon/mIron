@@ -1,0 +1,24 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Sergey Pronin 			-- front-end 	-- plus.google.com/111429891740817994872
+    Evgeny Karaul'shikov 	-- design 		-- plus.google.com/118054534531165686735
+
+# THANKS
+
+    
+
+# TECHNOLOGY COLOPHON
+
+	Last update: 2013/09/18
+
+                            
+	Standards: HTML5, CSS3, Java Script
+
+                            
+	Components: Modernizr, jQuery, Normalize.css
+
+                            
+	Software: Ubuntu, Cloud9, Sublime text
