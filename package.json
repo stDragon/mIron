@@ -1,16 +1,11 @@
 {
-  "name": "mIron",
-  "version": "0.0.1",
-  "private": true,
-  "scripts": {
-    "start": "node app"
-  },
-  "dependencies": {
-    "express": "3.0.x",
-    "jade": "*"
-  },
-  "engines": {
-    "node": "0.8.x",
-    "npm": "1.1.x"
+    "name": "mIron"
+  , "version": "0.0.1"
+  , "scripts": { "start": "node server.js" }
+  , "dependencies": { "express": "3.0.x" }
+  , "devDependencies": {
+      "mocha": "1.7.0"
+    , "should": "1.2.1"
+    , "supertest": "0.4.0"
   }
 }
